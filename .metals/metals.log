@@ -1,0 +1,4 @@
+INFO  started: Metals version 0.8.4 in workspace '/Users/carlos.amaya/Documents/Develops/gitS4n/back-end-troppers/back-end-troopers'
+INFO  time: initialize in 0.41s
+WARN  no build target for: /Users/carlos.amaya/Documents/Develops/gitS4n/back-end-troppers/back-end-troopers/ports/src/main/scala/co/s4n/practice/Main.scala
+INFO  shutting down Metals

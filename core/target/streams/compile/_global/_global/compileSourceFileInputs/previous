@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.10":{"hashes":[["/Users/carlos.amaya/Documents/Develops/gitS4n/back-end-troppers/back-end-troopers/core/src/main/scala/co/s4n/practice/application/env/Logger.scala","6c461da12ba387174ad038c0ea71baeab7c02da7"]],"lastModifiedTimes":[]}}]
